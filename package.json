@@ -1,0 +1,29 @@
+{
+  "name": "store_rating_web",
+  "version": "1.0.0",
+  "description": "A full-stack web application for rating stores with role-based access control",
+  "homepage": "https://github.com/arpitmohankar/store_rating_web#readme",
+  "bugs": {
+    "url": "https://github.com/arpitmohankar/store_rating_web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitmohankar/store_rating_web.git"
+  },
+  "license": "MIT",
+  "author": "Arpit Mohankar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd backend && npm run dev",
+    "client": "cd frontend && npm start",
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "build": "cd frontend && npm run build",
+    "start": "cd backend && npm start",
+    "seed": "cd backend && npm run seed"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
