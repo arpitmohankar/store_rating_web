@@ -1,3 +1,4 @@
+## [!!!🔴For Website ScreenShots, Scroll down🔴!!!]
 # 🏪 Store Rating Platform
 
 A full-stack web application that allows users to submit ratings for stores registered on the platform. Built with React.js, Express.js, and PostgreSQL, featuring role-based access control and comprehensive dashboards.
@@ -90,4 +91,13 @@ Before you begin, ensure you have the following installed:
 - **npm** (v9.0.0 or higher)
 - **PostgreSQL** database (or NeonDB account)
 - **Git**
+<img width="1897" height="858" alt="image" src="https://github.com/user-attachments/assets/c7e09c39-f7e5-42a0-90a9-709f31a68bdd" />
+<img width="1358" height="466" alt="image" src="https://github.com/user-attachments/assets/eb124713-9b25-4623-850c-cb8fb29057b6" />
+<img width="1901" height="765" alt="image" src="https://github.com/user-attachments/assets/41f66c20-0c3e-42b6-9e1e-b67b4749ed93" />
+<img width="1889" height="786" alt="image" src="https://github.com/user-attachments/assets/c20673e1-74c0-4b99-9a29-d56e33149972" />
+<img width="1889" height="786" alt="image" src="https://github.com/user-attachments/assets/d67db447-8f55-4933-b319-2ca4dafed6d2" />
+<img width="1144" height="805" alt="image" src="https://github.com/user-attachments/assets/2c1e0578-0ca4-4287-b2ce-50b015b32b05" />
+<img width="1899" height="857" alt="image" src="https://github.com/user-attachments/assets/2b926013-d269-4021-8181-5e57a025c5ce" />
+<img width="1882" height="861" alt="image" src="https://github.com/user-attachments/assets/50af98df-5a04-4519-bc4f-ec1d013ceec7" />
+
 
